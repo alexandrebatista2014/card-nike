@@ -4,4 +4,4 @@ Para construção desse card foram utilizadas as seguintes propriedades: clip-pa
 
 [Fonte: Online Tutorials](https://www.youtube.com/watch?v=jUByQLfakJ8&feature=em-uploademail)
 
-![Imagem da tela]()
+![Imagem da tela](https://github.com/alexandrebatista2014/card-nike/blob/master/card.gif)
